@@ -1,102 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="5.7">
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/AngularObject.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/AngularObject.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/AngularObjectListener.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/AngularObjectListener.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/AngularObjectRegistry.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/AngularObjectRegistry.java">
 <error line="36" column="24" severity="warning" message="Name &apos;GLOBAL_KEY&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
 <error line="61" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 <error line="155" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/AngularObjectRegistryListener.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/AngularObjectRegistryListener.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/AngularObjectWatcher.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/AngularObjectWatcher.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/GUI.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/GUI.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/Input.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/Input.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/ClassloaderInterpreter.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/ClassloaderInterpreter.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/Interpreter.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/Interpreter.java">
 <error line="68" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 <error line="75" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 <error line="208" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterContext.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterContext.java">
 <error line="26" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterContextRunner.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterContextRunner.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterException.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterException.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterGroup.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterGroup.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterProperty.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterProperty.java">
 <error line="20" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterPropertyBuilder.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterPropertyBuilder.java">
 <error line="23" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterResult.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterResult.java">
 <error line="117" column="47" severity="warning" message="&apos;)&apos; is preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterUtils.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/InterpreterUtils.java">
 <error line="22" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/LazyOpenInterpreter.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/LazyOpenInterpreter.java">
 <error line="26" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/ClientFactory.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/ClientFactory.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/InterpreterContextRunnerPool.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/InterpreterContextRunnerPool.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteAngularObject.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteAngularObject.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteAngularObjectRegistry.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteAngularObjectRegistry.java">
 <error line="65" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 <error line="99" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreter.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreter.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterContextRunner.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterContextRunner.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterEventPoller.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterEventPoller.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterProcess.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterProcess.java">
 <error line="257" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterServer.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterServer.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterUtils.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterUtils.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/WrappedInterpreter.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/WrappedInterpreter.java">
 <error line="20" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/ExecutorFactory.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/ExecutorFactory.java">
 <error line="28" column="34" severity="warning" message="Name &apos;_executor&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*_?$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
 <error line="29" column="23" severity="warning" message="Name &apos;_executorLock&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*_?$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/FIFOScheduler.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/FIFOScheduler.java">
 <error line="28" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/Job.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/Job.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/JobListener.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/JobListener.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/JobProgressPoller.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/JobProgressPoller.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/ParallelScheduler.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/ParallelScheduler.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/RemoteScheduler.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/RemoteScheduler.java">
 <error line="35" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/Scheduler.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/Scheduler.java">
 <error line="22" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/SchedulerFactory.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/SchedulerFactory.java">
 </file>
-<file name="/mnt/hgfs/shared/CMPE272/ECP/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/SchedulerListener.java">
+<file name="/mnt/hgfs/shared/cmpe272/ecp/zeppelin-0.5.6-incubating/zeppelin-interpreter/src/main/java/org/apache/zeppelin/scheduler/SchedulerListener.java">
 </file>
 </checkstyle>
